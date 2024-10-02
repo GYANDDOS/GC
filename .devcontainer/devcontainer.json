@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/GA/gyani.py",
+    "postStartCommand": "python3 /workspaces/GC/gyani.py",
     "customizations": {
         "vscode": {
             "settings": {
